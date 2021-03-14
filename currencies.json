@@ -1,0 +1,25 @@
+{
+    currencies: [
+        {
+            name: "British pound",
+            iso_4217: "GBP",
+            symbol: "£"
+        },
+        {
+            name: "Irish pound/punt Éireannach",
+            iso_4217: "IRP",
+            symbol: "£",
+            creation: "1928",
+            rate: [[1, "GBP"], [1, "IRP"]],
+            floated: "1979-03-30",
+            replaced_by: "EUR"
+        },
+        {
+            name: "Euro",
+            iso_4217: "EUR",
+            symbol: "€",
+            creation: "1998-12-30",
+            rate: [[0.787564, "IRP"], [1, "EUR"]]
+        }
+    ]
+}
