@@ -1,25 +1,58 @@
 {
     currencies: [
         {
-            name: "British pound",
-            iso_4217: "GBP",
-            symbol: "£"
+            "name": "British pound",
+            "iso_4217": "GBP",
+            "symbol": "£"
         },
         {
-            name: "Irish pound/punt Éireannach",
-            iso_4217: "IEP",
-            symbol: "£",
-            creation: "1928",
-            rate: [[1, "GBP"], [1, "IEP"]],
-            floated: "1979-03-30",
-            replaced_by: "EUR"
+            "name": "Irish pound/punt Éireannach",
+            "iso_4217": "IEP",
+            "symbol": "£",
+            "creation": "1928",
+            "rate": {
+                "GBP": 1, 
+                "IEP": 1
+            },
+            "floated": "1979-03-30",
+            "replaced_by": "EUR"
         },
         {
-            name: "Euro",
-            iso_4217: "EUR",
-            symbol: "€",
-            creation: "1998-12-30",
-            rate: [[0.787564, "IEP"], [1, "EUR"]]
+            "name": "Euro",
+            "iso_4217": "EUR",
+            "symbol": "€",
+            "creation": "1998-12-30",
+            "rate": {
+                "IEP": 0.787564,
+                "EUR": 1
+            },
+        },
+        {
+            "name": "East African rupee",
+            "creation": "1906",
+            "rate": {
+                "East African rupee": 1, 
+                "Indian rupee": 1
+            },
+            "replaced_by": "East African florin"
+        },
+        {
+            "name": "East African florin",
+            "creation": "1920",
+            "rate": {
+                "East African rupee": 10,
+                "East African florin": 10,
+                "GBP": 1
+            },
+            "replaced_by": "East African shilling"
+        },
+        {
+            "name": "East African shilling",
+            "creation": "1921",
+            "rate": {
+                "East African shilling": 2,
+                "East African florin": 1,
+            },
         }
     ]
 }
