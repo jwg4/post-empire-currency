@@ -25,7 +25,7 @@
             "rate": {
                 "IEP": 0.787564,
                 "EUR": 1
-            },
+            }
         },
         {
             "name": "East African rupee",
@@ -51,7 +51,7 @@
             "creation": "1921",
             "rate": {
                 "East African shilling": 2,
-                "East African florin": 1,
+                "East African florin": 1
             }
         },
         {
