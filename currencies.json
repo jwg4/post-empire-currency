@@ -52,7 +52,27 @@
             "rate": {
                 "East African shilling": 2,
                 "East African florin": 1,
+            }
+        },
+        {
+            "name": "Ugandan shilling",
+            "iso_4217": "UGS",
+            "creation": "1966",
+            "rate": {
+                "East African shilling": 1,
+                "Ugandan shilling": 1
             },
+            "replaced_by": "New Ugandan shilling"
+        },
+        {
+            "name": "New Ugandan shilling",
+            "iso_4217": "UGX",
+            "creation": "1987",
+            "symbol": "/",
+            "rate": {
+                "Ugandan shilling": 100,
+                "New Ugandan shilling": 1
+            }
         }
     ]
 }
