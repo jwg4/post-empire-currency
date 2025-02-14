@@ -28,6 +28,24 @@
             }
         },
         {
+            "name": "Indian rupee",
+            "iso_4217": "INR",
+            "rate": {
+                "British pound": 1, 
+                "Indian rupee": 10
+            },
+            "pegged": "1899-09-15"
+        },
+        {
+            "name": "Hyderabadi rupee",
+            "rate": {
+                "Indian rupee": 6,
+                "Hyderabadi rupee": 7
+            },
+            "replaced_by": "Indian rupee",
+            "demonetised": "1959-06-30"
+        },
+        {
             "name": "East African rupee",
             "creation": "1906",
             "rate": {
