@@ -23,8 +23,9 @@
             "symbol": "€",
             "creation": "1998-12-30",
             "rate": {
-                "IEP": 0.787564,
-                "EUR": 1
+                "Irish pound/punt Éireannach": 0.787564,
+                "Maltese pound": 0.4293,
+                "Euro": 1
             }
         },
         {
@@ -139,6 +140,28 @@
                 "British pound": 0.975,
                 "Egyptian pound": 1
             }
+        },
+        {
+            "name": "Maltese lira",
+            "iso_4217": "MTL",
+            "creation": "1825",
+            "rate": {
+                "British pound": 1,
+                "Maltese lira": 1 
+            },
+            "replaced_by": "Maltese pound",
+            "floated": "1971-12-13"
+        },
+        {
+            "name": "Maltese pound",
+            "iso_4217": "MTP",
+            "creation": "1983",
+            "rate": {
+                "Maltese lira": 1,
+                "Maltese pound": 1
+            },
+            "replaced_by": "Euro",
+            "replaced": "2008-01-01"
         }
     ]
 }
