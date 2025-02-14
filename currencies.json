@@ -1,5 +1,5 @@
 {
-    currencies: [
+    "currencies": [
         {
             "name": "British pound",
             "iso_4217": "GBP",
