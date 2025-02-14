@@ -73,6 +73,25 @@
                 "Ugandan shilling": 100,
                 "New Ugandan shilling": 1
             }
+        },
+        {
+            "name": "Palestine pound",
+            "creation": "1927",
+            "rate": {
+                "British pound": 1,
+                "Palestine pound": 1
+            },
+            "replaced_by": "Israeli pound"
+        },
+        {
+            "name": "Israeli pound",
+            "creation": "1952",
+            "rate": {
+                "Palestine pound": 1,
+                "Israeli pound": 1
+            },
+            "floated": 1954,
+            "replaced_by": "Israeli shekel"
         }
     ]
 }
