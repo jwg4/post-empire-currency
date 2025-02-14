@@ -15,7 +15,8 @@
                 "IEP": 1
             },
             "floated": "1979-03-30",
-            "replaced_by": "EUR"
+            "replaced_by": "EUR",
+            "replaced": "1999-01-01"
         },
         {
             "name": "Euro",
