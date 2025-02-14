@@ -85,6 +85,7 @@
         },
         {
             "name": "Israeli pound",
+            "iso_4217": "ILP",
             "creation": "1952",
             "rate": {
                 "Palestine pound": 1,
