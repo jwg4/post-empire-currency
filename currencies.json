@@ -130,6 +130,15 @@
                 "Israeli shekel": 1000,
                 "New Israeli shekel": 1
             }
+        },
+        {
+            "name": "Egyptian pound",
+            "iso_4217": "EGP",
+            "creation": "1885",
+            "rate": {
+                "British pound": 0.975,
+                "Egyptian pound": 1
+            }
         }
     ]
 }
