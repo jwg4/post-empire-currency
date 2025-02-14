@@ -93,6 +93,25 @@
             },
             "floated": 1954,
             "replaced_by": "Israeli shekel"
+        },
+        {
+            "name": "Israeli shekel",
+            "iso_4217": "ILR",
+            "creation": "1980",
+            "rate": {
+                "Israeli pound": 10,
+                "Israeli shekel": 1
+            },
+            "replaced_by": "New Israeli shekel"
+        },
+        {
+            "name": "New Israeli shekel",
+            "iso_4217": "ILS",
+            "creation": "1985",
+            "rate": {
+                "Israeli shekel": 1000,
+                "New Israeli shekel": 1
+            }
         }
     ]
 }
