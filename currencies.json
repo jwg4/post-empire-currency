@@ -163,6 +163,35 @@
             },
             "replaced_by": "Euro",
             "replaced": "2008-01-01"
+        },
+        {
+            "name": "Gulf rupee",
+            "iso_4217": "INR",
+            "creation": "1959",
+            "rate": {
+                "Indian rupee": 1,
+                "Gulf rupee": 1
+            }
+        },
+        {
+            "name": "Kuwaiti dinar",
+            "iso_4217": "KWD",
+            "creation": "1961",
+            "rate": {
+                "British pound": 3,
+                "Kuwaiti dinar": 3,
+                "Gulf rupee": 40
+            }
+        },
+        {
+            "name": "Bahraini dinar",
+            "iso_4217": "BHD",
+            "creation": "1965",
+            "rate": {
+                "British pound": 3,
+                "Bahraini dinar": 4,
+                "Gulf rupee": 40
+            }
         }
     ]
 }
