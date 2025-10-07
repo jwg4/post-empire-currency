@@ -166,7 +166,6 @@
         },
         {
             "name": "Gulf rupee",
-            "iso_4217": "INR",
             "creation": "1959",
             "rate": {
                 "Indian rupee": 1,
