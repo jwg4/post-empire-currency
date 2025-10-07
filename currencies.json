@@ -191,6 +191,24 @@
                 "Bahraini dinar": 4,
                 "Gulf rupee": 40
             }
+        },
+        {
+            "name": "Qatari and Dubai riyal",
+            "creation": "1966",
+            "rate": {
+                "British pound": 3,
+                "Qatari and Dubai riyal": 40,
+                "Gulf rupee": 40
+            }
+        },
+        {
+            "name": "Qatari and Dubai riyal",
+            "iso_4217": "QAR",
+            "creation": "1973-05-19",
+            "rate": {
+                "Qatari and Dubai riyal": 1,
+                "Qatari riyal": 1
+            }
         }
     ]
 }
