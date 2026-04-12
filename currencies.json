@@ -209,6 +209,24 @@
                 "Qatari and Dubai riyal": 1,
                 "Qatari riyal": 1
             }
+        },
+        {
+            "name": "Saidi rial",
+            "creation": "1970-05-07",
+            "rate": {
+                "British pound": 1,
+                "Saidi rial": 1,
+                "Gulf rupee": 21
+            }
+        },
+        {
+            "name": "Omani rial",
+            "iso_4217": "OMR",
+            "creation": "1972-11-11",
+            "rate": {
+                "Saidi rial": 1,
+                "Omani rial": 1
+            }
         }
     ]
 }
