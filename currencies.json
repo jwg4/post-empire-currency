@@ -95,6 +95,16 @@
             }
         },
         {
+            "name": "Tanzanian shilling",
+            "iso_4217": "TZS",
+            "creation": "1966-06-14",
+            "symbol": "TSh",
+            "rate": {
+                "East African shilling": 1,
+                "Tanzanian shilling": 1
+            }
+        },
+        {
             "name": "Palestine pound",
             "creation": "1927",
             "rate": {
